@@ -25,6 +25,16 @@ I am expected to graduate in June 2026.
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/hifar.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Penghui Chen, **Yushi Wang**, Changsheng Luo, Wenhan Cai, Mingguo Zhao. *HiFAR: Multi-Stage Curriculum Learning for High-Dynamics Humanoid Fall Recovery*. arXiv Preprint, 2025. [[**Paper**](https://arxiv.org/abs/2502.20061)] [[**Website**](https://hi-far.github.io/)]
+
+</div>
+</div>
+
+---
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/wbmpc.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -100,6 +110,7 @@ I am expected to graduate in June 2026.
 
 # 💻 Internships
 
+- *2025.01 - Present*, Robotics Research Intern, [ByteDance Seed](https://seed.bytedance.com/), Beijing, China.
 - *2024.06 - 2024.12*, Robotics Research Intern, [Booster Robotics](https://www.boosterobotics.com/), Beijing, China.
 - *2022.06 - 2022.09*, Robotics Research Intern, [Mech-Mind Robotics](https://www.mech-mind.com/), Beijing, China.
 
