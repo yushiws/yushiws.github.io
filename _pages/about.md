@@ -78,9 +78,10 @@ I am expected to graduate in June 2026.
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/gym.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Booster Gym: A User-Friendly Reinforcement Learning Framework for Humanoid Robot**
+**Booster Gym: An End-to-End Reinforcement Learning Framework for Humanoid Robot Locomotion**
 
-- [[**Code**](https://github.com/BoosterRobotics/booster_gym)] ![](https://img.shields.io/github/stars/BoosterRobotics/booster_gym) ![](https://img.shields.io/github/forks/BoosterRobotics/booster_gym)
+- [[**Paper**](https://booster-gym.github.io/static/pdfs/paper.pdf)] [[**Code**](https://github.com/BoosterRobotics/booster_gym)] ![](https://img.shields.io/github/stars/BoosterRobotics/booster_gym) ![](https://img.shields.io/github/forks/BoosterRobotics/booster_gym)
+
 </div>
 </div>
 
@@ -89,10 +90,11 @@ I am expected to graduate in June 2026.
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/robocup.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Team Tsinghua Hephaestus, Robocup Humanoid League, Eindhoven, Netherlands, 2024**
+**Team Tsinghua Hephaestus, Adult Size, RoboCup Humanoid League**
 
-- 4st in Soccer Competition, Adult Size
-- 2nd in Technical Challenge, Adult Size
+- 1st in Soccer Competition, RoboCup German Open 2025
+- 2nd in Technical Challenge, RoboCup 2024
+- 4st in Soccer Competition, RoboCup 2024
 </div>
 </div>
 
