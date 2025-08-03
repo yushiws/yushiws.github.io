@@ -87,14 +87,15 @@ I am expected to graduate in June 2026.
 
 ---
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/robocup.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/robocup2025.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Team Tsinghua Hephaestus, Adult Size, RoboCup Humanoid League**
 
-- 1st in Soccer Competition, RoboCup German Open 2025
-- 2nd in Technical Challenge, RoboCup 2024
-- 4st in Soccer Competition, RoboCup 2024
+- 1st in Soccer Competition, 1st in Technical Challenge, RoboCup 2025 [[**News**](https://mp.weixin.qq.com/s/4e6maGpWaEtWfj1rxkhI0w)]
+- 1st in Soccer Competition, RoboLeague 2025 [[**News**](https://mp.weixin.qq.com/s/Hz6F_OQFIMZKyoNmq18inQ)]
+- 1st in Soccer Competition, RoboCup German Open 2025 [[**News**](https://mp.weixin.qq.com/s/H8LatWwiGRWqrsfk_VCF6Q)]
+- 4st in Soccer Competition, 2nd in Technical Challenge, RoboCup 2024
 </div>
 </div>
 
