@@ -17,13 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year master's student at Department of Automation, Tsinghua University. I am advised by Prof. [Mingguo Zhao](https://scholar.google.com/citations?user=psoMDgwAAAAJ) and part of the Robot Control Lab. Previously, I completed my bachelor’s degree in Automation Engineering at Tsinghua University.
+I am a final-year master's student at Department of Automation, Tsinghua University. I am advised by Prof. [Mingguo Zhao](https://scholar.google.com/citations?user=psoMDgwAAAAJ) and part of the Robot Control Lab. Previously, I completed my bachelor’s degree in Automation Engineering at Tsinghua University.
 
 My research interest lies in robotic control, particularly in integrating locomotion and manipulation capabilities of robots.
 
 I am expected to graduate in June 2026.
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/kick.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- **Yushi Wang**, Changsheng Luo, Penghui Chen, Jianran Liu, Weijian Sun, Tong Guo, Kechang Yang, Biao Hu, Yangang Zhang, Mingguo Zhao. *Learning Vision-Driven Reactive Soccer Skills for Humanoid Robots*. arXiv Preprint. 2025. [[**Paper**](https://arxiv.org/abs/2511.03996)] [[**Website**](https://humanoid-kick.github.io/)]
+
+</div>
+</div>
+
+---
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/hifar.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -92,18 +102,19 @@ I am expected to graduate in June 2026.
 
 **Team Tsinghua Hephaestus, Adult Size, RoboCup Humanoid League**
 
+- 1st in Soccer Competition, 2025 World Humanoid Robot Games [[**News**](https://mp.weixin.qq.com/s/P5BgWNws2mOu5a1R_2BV-Q)]
 - 1st in Soccer Competition, 1st in Technical Challenge, RoboCup 2025 [[**News**](https://mp.weixin.qq.com/s/4e6maGpWaEtWfj1rxkhI0w)]
 - 1st in Soccer Competition, RoboLeague 2025 [[**News**](https://mp.weixin.qq.com/s/Hz6F_OQFIMZKyoNmq18inQ)]
 - 1st in Soccer Competition, RoboCup German Open 2025 [[**News**](https://mp.weixin.qq.com/s/H8LatWwiGRWqrsfk_VCF6Q)]
-- 4st in Soccer Competition, 2nd in Technical Challenge, RoboCup 2024
 </div>
 </div>
 
 # 🎖 Honors and Awards
 
+- *2025.11*, National Scholarship for Graduate Students (top 1%)
 - *2023.06*, Tsinghua Outstanding Graduate Thesis (top 5%)
 - *2023.06*, Tsinghua Outstanding Graduate Award (top 10%)
-- *2020.12*, National Scholarship (top 1%)
+- *2020.12*, National Scholarship for Undergraduate Students (top 1%)
 
 # 📖 Educations
 
